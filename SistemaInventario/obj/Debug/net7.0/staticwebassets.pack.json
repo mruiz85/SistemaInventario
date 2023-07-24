@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\HP\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\Marca.js",
+      "PackagePath": "staticwebassets\\js\\Marca.js"
+    },
+    {
       "Id": "C:\\Users\\HP\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\bodega.js",
       "PackagePath": "staticwebassets\\js\\bodega.js"
     },

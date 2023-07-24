@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vQBuwrxuer3ITQjQtV1nT6mZUwNFODu2ffXcuzqQr5Q=",
+  "Hash": "dsX0rJedV7ro3DmFb3vIngIkwqimG0jUx0bXeX/g2a4=",
   "Source": "SistemaInventario",
   "BasePath": "_content/SistemaInventario",
   "Mode": "Default",
@@ -1137,6 +1137,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\categoria.js"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\Marca.js",
+      "SourceId": "SistemaInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario",
+      "RelativePath": "js/Marca.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Marca.js"
     },
     {
       "Identity": "C:\\Users\\HP\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",
